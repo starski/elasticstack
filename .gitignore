@@ -1,0 +1,3 @@
+/docker/volumes/filebeat_ingest_data/
+/docker/volumes/logstash_ingest_data/
+/.env
